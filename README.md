@@ -1,2 +1,4 @@
-# Noval
-A Roblox script for a game called "Skywars".
+<div align=center>
+  <h1>Noval</h1>
+  <b>Under development</b>
+</div>
